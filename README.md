@@ -1,0 +1,1 @@
+This assignment is for my final project in HCDE 410. For my project I will be exploring the effect of the COVID-19 lockdown on the mental health of Americans. For this I'll be exploring trends in Google searches, as well as survey data to see the changes in people's mental health, and how these changes differ across demographics.
